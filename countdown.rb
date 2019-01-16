@@ -5,4 +5,5 @@ while number < 10
   number -= 1
   "HAPPY NEW YEAR!"
 end
-end
+def countdown_with_sleep
+  sleep 12
