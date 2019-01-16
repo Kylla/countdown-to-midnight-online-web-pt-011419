@@ -1,6 +1,6 @@
 def countdown
    number = 10
-while number < 10
+while number 
   puts "#{number} SECOND(S)!"
   number -= 1
   "HAPPY NEW YEAR!"
