@@ -6,6 +6,6 @@ while number == 0
   "HAPPY NEW YEAR!"
 end
 def countdown_with_sleep
-  sleep 10
+  sleep 5
 end
 end
