@@ -7,3 +7,4 @@ while number < 10
 end
 def countdown_with_sleep
   sleep 12
+end
