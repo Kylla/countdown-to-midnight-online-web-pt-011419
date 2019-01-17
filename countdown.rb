@@ -1,5 +1,4 @@
 def countdown
-  loop do
   number = 0
     while number == 0
     puts "#{number} SECOND(S)!"
